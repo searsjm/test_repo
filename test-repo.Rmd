@@ -28,3 +28,8 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+## Github Sync with Overleaf
+
+
+Once logged in and synced, we can push changes from Overleaf to GitHub (or vice versa)
