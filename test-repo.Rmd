@@ -32,4 +32,4 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 ## Github Sync with Overleaf
 
 
-Once logged in and synced, we can push changes from Overleaf to GitHub (or vice versa)
+Once logged in and synced, we can push changes from Overleaf to GitHub (or vice versa) - it works both ways
